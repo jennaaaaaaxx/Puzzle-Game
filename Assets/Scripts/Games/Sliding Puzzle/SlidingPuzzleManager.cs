@@ -5,7 +5,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class GameManager : MonoBehaviour
+public class SlidingPuzzleManager : MonoBehaviour
 {
 
     [SerializeField] private Transform gameTransform;

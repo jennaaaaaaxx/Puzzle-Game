@@ -12,153 +12,153 @@ EditorBuildSettings:
     path: Assets/Scenes/Level Selector.unity
     guid: a29d02a8172924440ad6cc63bf0b5728
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 1.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 2.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 2.unity
     guid: 2dbf747abc194244aa0c52eea246d6e5
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 3.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 3.unity
     guid: de30e2f86eb0b2a47b2f3e08746d2a44
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 4.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 4.unity
     guid: 366b687a6c7177d4098b92ec601ef795
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 5.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 5.unity
     guid: 2e2f43dfef1086a4d814f0912331fe8f
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 6.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 6.unity
     guid: d4948f328782d4e4d8dd1a0a11fefcbd
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 7.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 7.unity
     guid: 08bccca6a9eedf547bb0b548971d367c
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 8.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 8.unity
     guid: 0da3d8f3a3b4e5c40874dd3f64baa064
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 9.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 9.unity
     guid: 0cfa739844838384b86e06d3016377af
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 10.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 10.unity
     guid: dc9287ea456d4ba4c8dd0aa3a4e3c388
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 11.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 11.unity
     guid: 127dcb17d0fbd644287ab8580682547d
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 12.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 12.unity
     guid: 24ee82c65a19b6840989603f3a5e58dc
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 13.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 13.unity
     guid: 25a121be98d8b3d439acdbad920465d9
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 14.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 14.unity
     guid: e61a89f115af1684c87ddfb811c9a21d
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 15.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 15.unity
     guid: 6a1c783450ebab84eb981187a3ebcf22
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 16.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 16.unity
     guid: f2549e380efb03543b43b9a019eff26b
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 17.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 17.unity
     guid: 4089d14a671b2654682fb35149e7b31d
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 18.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 18.unity
     guid: e68d74c9db17b014ab32c2a44eba3713
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 19.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 19.unity
     guid: 0f7a503a2a971ab48b2a8794a0d7fafb
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 20.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 20.unity
     guid: d51bf82d51de42043901609a4c406f61
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 21.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 21.unity
     guid: d7680e97982f8be4583a98751e99f57d
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 22.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 22.unity
     guid: ab972ddde38b51749a1f911f1cf3de83
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 23.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 23.unity
     guid: 829c7be608251864bae7820e51be005c
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 24.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 24.unity
     guid: 8bb6b2aa8967c394496e1f57d3ce0419
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 25.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 25.unity
     guid: d0c4bda7a26c7484b9d3e56a87295f4b
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 26.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 26.unity
     guid: 813db790c33659f48b86d6cc00ebff86
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 27.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 27.unity
     guid: 8bae7a548fe5a1e469de57f4912f7ce8
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 28.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 28.unity
     guid: b8435f068f0f57c449972903c7dc20be
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 29.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 29.unity
     guid: a021cdb2eee9fb54eaa15eeab9313442
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 30.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 30.unity
     guid: e53489f1f60085a4d855b433c50b4a0b
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 31.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 31.unity
     guid: b941ee90964bc3446b124e41e15093fe
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 32.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 32.unity
     guid: 9b436126eea09c44395f577fbf1070ad
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 33.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 33.unity
     guid: 1dc22a4987351824db3e96d9a3ad4cf3
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 34.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 34.unity
     guid: adf18e3264274b643b3c1b49270265d5
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 35.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 35.unity
     guid: bd6e4ec8d999ca74d946883f7fa46b4c
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 36.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 36.unity
     guid: 1638a3aad6184224ca33558c01723891
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 37.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 37.unity
     guid: 305e36f3142dc824cbd9a2574eb45506
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 38.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 38.unity
     guid: 1418d080be8c1c34b886f93f8b40734d
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 39.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 39.unity
     guid: 4233633e6e0cacd4daa059243f7ffb51
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 40.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 40.unity
     guid: 0f09333b2572172469492c56d174e684
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 41.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 41.unity
     guid: 536a6b8734256e94e825bcae14c8f2c8
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 42.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 42.unity
     guid: c1eff791f51c5a3408dd0ad2a2a65444
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 43.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 43.unity
     guid: afc57a5e047b4f94696af115ecfaa133
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 44.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 44.unity
     guid: f4059ecc162fa66449f45ea3e81e2b31
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 45.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 45.unity
     guid: 260c99c0864b3ff459dee062e68b4f5a
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 46.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 46.unity
     guid: 6578b29b9ea622f4bb2b23251ec16838
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 47.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 47.unity
     guid: 2cb919da13daf2a4d9b2f3e1e4d11d2a
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 48.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 48.unity
     guid: a41009dc83bdb184187bb3c76782a6ac
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 49.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 49.unity
     guid: 5ce789f435bef6847bae95607565c4fd
   - enabled: 1
-    path: Assets/Scenes/Sliding Puzzle Levels/Level 50.unity
+    path: Assets/Scenes/Games/Sliding Puzzle Levels/Level 50.unity
     guid: 9c7163b372cf15e4d82d5367a7016ea0
   m_configObjects: {}
